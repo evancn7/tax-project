@@ -1,3 +1,3 @@
-# treaty-c
+# tax-project
 
-Calculating the net amount given values VAT and Total Amount
+Script to calculate the net amount and total amount in relation to tax.
